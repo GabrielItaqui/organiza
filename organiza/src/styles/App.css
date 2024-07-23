@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #E87722;
+    /* Fundo laranja */
+    color: white;
+    /* Letras brancas */
+}
+
+.App {
+    text-align: center;
+    padding: 20px;
+}
+
+.App img {
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+
+.App h1 {
+    color: white;
+    font-weight: bold;
+    /* Letras mais grossas */
+}
+
+select {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+    max-width: 300px;
+    background-color: white;
+    color: #E87722;
+}
+
+select option {
+    color: #333;
+}
+
+@media (min-width: 600px) {
+    .App {
+        padding: 40px;
+    }
+
+    select {
+        max-width: 400px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .App {
+        padding: 60px;
+    }
+
+    select {
+        max-width: 500px;
+    }
+}

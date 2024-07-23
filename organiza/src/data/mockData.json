@@ -1,0 +1,160 @@
+{
+    "cursos": [
+      {
+        "nome": "Engenharia de Computação",
+        "disciplinas": [
+          {
+            "nome": "Matemática Discreta",
+            "professores": [
+              {
+                "nome": "Professor João Silva",
+                "sala": "Sala 101"
+              },
+              {
+                "nome": "Professora Ana Costa",
+                "sala": "Sala 102"
+              }
+            ]
+          },
+          {
+            "nome": "Algoritmos e Estruturas de Dados",
+            "professores": [
+              {
+                "nome": "Professor Carlos Oliveira",
+                "sala": "Sala 103"
+              },
+              {
+                "nome": "Professora Laura Martins",
+                "sala": "Sala 104"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Medicina",
+        "disciplinas": [
+          {
+            "nome": "Anatomia Humana",
+            "professores": [
+              {
+                "nome": "Professor Pedro Almeida",
+                "sala": "Sala 201"
+              },
+              {
+                "nome": "Professora Maria Souza",
+                "sala": "Sala 202"
+              }
+            ]
+          },
+          {
+            "nome": "Bioquímica",
+            "professores": [
+              {
+                "nome": "Professor Felipe Lima",
+                "sala": "Sala 203"
+              },
+              {
+                "nome": "Professora Clara Mendes",
+                "sala": "Sala 204"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Direito",
+        "disciplinas": [
+          {
+            "nome": "Introdução ao Direito",
+            "professores": [
+              {
+                "nome": "Professor André Pereira",
+                "sala": "Sala 301"
+              },
+              {
+                "nome": "Professora Juliana Ribeiro",
+                "sala": "Sala 302"
+              }
+            ]
+          },
+          {
+            "nome": "Direito Penal",
+            "professores": [
+              {
+                "nome": "Professor Marcos Lima",
+                "sala": "Sala 303"
+              },
+              {
+                "nome": "Professora Beatriz Costa",
+                "sala": "Sala 304"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Administração",
+        "disciplinas": [
+          {
+            "nome": "Teoria da Administração",
+            "professores": [
+              {
+                "nome": "Professor Roberto Silva",
+                "sala": "Sala 401"
+              },
+              {
+                "nome": "Professora Vanessa Almeida",
+                "sala": "Sala 402"
+              }
+            ]
+          },
+          {
+            "nome": "Marketing",
+            "professores": [
+              {
+                "nome": "Professor Gustavo Santos",
+                "sala": "Sala 403"
+              },
+              {
+                "nome": "Professora Paula Fernandes",
+                "sala": "Sala 404"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Psicologia",
+        "disciplinas": [
+          {
+            "nome": "Psicologia do Desenvolvimento",
+            "professores": [
+              {
+                "nome": "Professor Ricardo Gomes",
+                "sala": "Sala 501"
+              },
+              {
+                "nome": "Professora Fernanda Silva",
+                "sala": "Sala 502"
+              }
+            ]
+          },
+          {
+            "nome": "Psicopatologia",
+            "professores": [
+              {
+                "nome": "Professor Daniel Lima",
+                "sala": "Sala 503"
+              },
+              {
+                "nome": "Professora Marcela Torres",
+                "sala": "Sala 504"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
