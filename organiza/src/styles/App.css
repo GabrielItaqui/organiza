@@ -72,3 +72,13 @@ select option {
         max-width: 500px;
     }
 }
+
+.signature {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 14px;
+    color: white;
+    font-style: italic;
+    text-align: right;
+}

@@ -87,6 +87,7 @@ const App = () => {
       <div className="rodape">
         <img src={frenteAnhanguera} alt="Frente Anhanguera" className="imagem" />
         <Footer />
+        <div className="signature">por Gabriel Itaqui</div>
       </div>
 
     </div>
