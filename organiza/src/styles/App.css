@@ -2,27 +2,41 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #E87722;
-    /* Fundo laranja */
     color: white;
-    /* Letras brancas */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 .App {
     text-align: center;
-    padding: 20px;
+    flex: 1;
+    box-sizing: border-box;
 }
 
-.App img {
+.logo-anhanguera {
+    margin: 20px;
     max-width: 200px;
-    margin-bottom: 20px;
+}
+
+.imagem {
+    max-height: 300px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    position: fixed;
+    bottom: 0;
+    left: 0;
 }
 
 .App h1 {
     color: white;
-    font-weight: bold;
-    /* Letras mais grossas */
+    font-weight: 700;
 }
 
+.rodape {
+    display: flex;
+}
 select {
     padding: 10px;
     margin: 10px 0;
