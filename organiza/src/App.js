@@ -85,7 +85,7 @@ const App = () => {
 
       </div>
       <div className="rodape">
-        <img src={frenteAnhanguera} alt="Frente Anhanguera" className="imagem" />
+        {/* <img src={frenteAnhanguera} alt="Frente Anhanguera" className="imagem" /> */}
         <Footer />
         <div className="signature">por Gabriel Itaqui</div>
       </div>
