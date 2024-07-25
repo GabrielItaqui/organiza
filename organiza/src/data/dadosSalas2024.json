@@ -1,0 +1,653 @@
+{
+    "cursos": [
+        {
+            "nome": "Enfermagem",
+            "disciplinas": [
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Imune e Hematológico",
+                    "professores": [
+                        {
+                            "nome": "Anderson Nunes",
+                            "sala": "Terça-Feira na 1B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Nervoso e Cardiorespiratório",
+                    "professores": [
+                        {
+                            "nome": "Edmar Daros",
+                            "sala": "Segunda-Feira na 14B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Tegumentar, Reprodutor e Locomotor",
+                    "professores": [
+                        {
+                            "nome": "Mariel Pazinatto",
+                            "sala": "Quarta-Feira na 2B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Intensivismo",
+                    "professores": [
+                        {
+                            "nome": "Anderson Nunes",
+                            "sala": "Segunda-Feira na 16B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Seminário Integrador na Saúde da Mulher",
+                    "professores": [
+                        {
+                            "nome": "Monica Madera",
+                            "sala": "Terça-Feira na 5B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Urgência e Emergência em Enfermagem",
+                    "professores": [
+                        {
+                            "nome": "Patricia Ribeiro",
+                            "sala": "Terça-Feira na 7B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "7º e 8º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Adria Gabriela de Aiedo Garcia da Silva",
+                            "sala": "Quarta-Feira na 3B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Enfermagem na Saúde da Mulher",
+                    "professores": [
+                        {
+                            "nome": "Patricia Ribeiro",
+                            "sala": "Quarta-Feira na 14B e Sexta-Feira na 16B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Tópicos Especiais em Enfermagem",
+                    "professores": [
+                        {
+                            "nome": "Edmar Daros",
+                            "sala": "Quinta-Feira na 9B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Microbiologia",
+                    "professores": [
+                        {
+                            "nome": "Caroline Frozza",
+                            "sala": "Sexta-Feira na 6B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Seminario Integrador na Saúde da Criança",
+                    "professores": [
+                    {
+                        "nome": "Monica Madera",
+                        "sala": "Sexta-Feira na 13B"
+                    }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Psicologia",
+            "disciplinas": [
+                {
+                    "nome": "Desenvolvimento Humano I",
+                    "professores": [
+                        {
+                            "nome": "Bernardo Mantovani",
+                            "sala": "Segunda-Feira na 2B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Matrizes do Pensamento em Psicologia - Behaviorismo",
+                    "professores": [
+                        {
+                            "nome": "Leisen Ferreira da Silva",
+                            "sala": "Quarta-Feira na 7B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Psicologia, Ciência e Profissão",
+                    "professores": [
+                        {
+                            "nome": "Fernanda Bianca Pinto Garcia",
+                            "sala": "Quarta-Feira na 8B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Orientação Profissional",
+                    "professores": [
+                        {
+                            "nome": "Henrique Rauch",
+                            "sala": "Segunda-Feira na 5B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Nervoso e Cardiorespiratório",
+                    "professores": [
+                        {
+                            "nome": "Edmar Daros",
+                            "sala": "Segunda-Feira na 14B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Medidas e Avaliação em Psicologia II",
+                    "professores": [
+                        {
+                            "nome": "Sabrine Bueno Terres",
+                            "sala": "Terça-Feira na 15B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Tegumentar, Reprodutor e Locomotor",
+                    "professores": [
+                        {
+                            "nome": "Mariel Pazinatto",
+                            "sala": "Quarta-Feira na 1B e 2B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Psicologia e Comunidade e Psicologia e Politicas Publicas",
+                    "professores": [
+                        {
+                            "nome": "Rejane Lazzaretti",
+                            "sala": "Quarta-Feira na 19B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Neuroanatomofisiologia",
+                    "professores": [
+                        {
+                            "nome": "Giovana Rech",
+                            "sala": "Quinta-Feira na 2B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Teorias e Técnicas Psicoterápicas Especiais",
+                    "professores": [
+                        {
+                            "nome": "Fabricio Carlo Bellei",
+                            "sala": "Quinta-Feira na 3B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Medidas e Avaliação em Psicologia I",
+                    "professores": [
+                        {
+                            "nome": "Sabrine Bueno Terres",
+                            "sala": "Quinta-Feira na 4B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Clinica Ampliada em Saúde Mental",
+                    "professores": [
+                        {
+                            "nome": "Fernanda Bianca Pinto Garcia",
+                            "sala": "Quinta-Feira na 5B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Gestão de Recursos Humanos",
+                    "professores": [
+                        {
+                            "nome": "Henrique Rauch",
+                            "sala": "Quinta-Feira na 6B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Psicologia Organizacional e do Trabalho II",
+                    "professores": [
+                        {
+                            "nome": "Leisen Ferreira da Silva",
+                            "sala": "Sexta-Feira na 4B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Matrizes do Pensamento em Psicologia - Psicanalise",
+                    "professores": [
+                        {
+                            "nome": "Bernardo Mantovani",
+                            "sala": "Sexta-Feira na 14B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Farmácia",
+            "disciplinas": [
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Nervoso e Cardiorespiratório",
+                    "professores": [
+                        {
+                            "nome": "Edmar Daros",
+                            "sala": "Segunda-Feira na 14B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Tegumentar, Reprodutor e Locomotor",
+                    "professores": [
+                        {
+                            "nome": "Mariel Pazinatto",
+                            "sala": "Quarta-Feira na 1B e 2B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Fitoterapia",
+                    "professores": [
+                        {
+                            "nome": "Gabriela Gambato",
+                            "sala": "Segunda-Feira na 15B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Homeopatia",
+                    "professores": [
+                        {
+                            "nome": "Gabriela Gambato",
+                            "sala": "Terça-Feira na 14B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Tecnologia Farmacêutica II",
+                    "professores": [
+                        {
+                            "nome": "Gabriela Gambato",
+                            "sala": "Sexta-Feira na 3B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Análise Instrumental Aplicada à Farmácia",
+                    "professores": [
+                        {
+                            "nome": "Carina Cassini",
+                            "sala": "Quinta-Feira na 14B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Fisiopatologia e Farmacoterapia dos Processos Inflamatórios, Sistemas Endócrino e Digestório",
+                    "professores": [
+                        {
+                            "nome": "Charlene S. Garcia",
+                            "sala": "Quinta-Feira na 16B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Fisioterapia",
+            "disciplinas": [
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Nervoso e Cardiorespiratório",
+                    "professores": [
+                        {
+                            "nome": "Edmar Daros",
+                            "sala": "Segunda-Feira na 14B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Tegumentar, Reprodutor e Locomotor",
+                    "professores": [
+                        {
+                            "nome": "Mariel Pazinatto",
+                            "sala": "Quarta-Feira na 1B e 2B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Fisioterapia na Atenção Secundária e Terciária",
+                    "professores": [
+                        {
+                            "nome": "Kleber Nicolodi",
+                            "sala": "Segunda-Feira na 20B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Fisioterapia na Atenção Primária e Prótese e Órtese",
+                    "professores": [
+                        {
+                            "nome": "Laura Zago",
+                            "sala": "Terça-Feira na 10B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "7º e 8º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Bruna Catarina Zatti",
+                            "sala": "Quarta-Feira na 5B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Recursos Terapêuticos BioHídricos",
+                    "professores": [
+                        {
+                            "nome": "Laura Zago",
+                            "sala": "Quarta-Feira na 13B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Recursos Terapêuticos Manuais",
+                    "professores": [
+                        {
+                            "nome": "Kleber Nicolodi",
+                            "sala": "Quinta-Feira na 8B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Cinesioterapia Aplicada",
+                    "professores": [
+                        {
+                            "nome": "Kleber Nicolodi",
+                            "sala": "Sexta-Feira na 15B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Biomedicina",
+            "disciplinas": [
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Nervoso e Cardiorespiratório",
+                    "professores": [
+                        {
+                            "nome": "Edmar Daros",
+                            "sala": "Segunda-Feira na 14B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Ciências Morfofuncionais dos Sistemas Tegumentar, Reprodutor e Locomotor",
+                    "professores": [
+                        {
+                            "nome": "Mariel Pazinatto",
+                            "sala": "Quarta-Feira na 1B e 2B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "3º e 4º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Pedro Henrique Zatti",
+                            "sala": "Segunda-Feira na 17B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "7º e 8º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Pâmela Navarro Rech",
+                            "sala": "Quarta-Feira na 11B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "6º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Pâmela Navarro Rech",
+                            "sala": "Quinta-Feira na 13B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Direito",
+            "disciplinas": [
+                {
+                    "nome": "Teoria Juridica do Direito Penal",
+                    "professores": [
+                        {
+                            "nome": "Jocelino Tramontin da Silva",
+                            "sala": "Segunda-Feira na 9B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Direito Processual Civil – Recursos de Tutela e Causas Repetitivas",
+                    "professores": [
+                        {
+                            "nome": "Juvenal Ballista Kleinowski",
+                            "sala": "Segunda-Feira na 11B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Direito Penal – Dos Crimes em Espécie",
+                    "professores": [
+                        {
+                            "nome": "Marcelo Larger Carneiro",
+                            "sala": "Segunda-Feira na 12B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Direito Civil - Coisas",
+                    "professores": [
+                        {
+                            "nome": "João Serevino de Villa",
+                            "sala": "Terça-Feira na 16B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Direito Coletivo do Trabalho e Tutelas Coletivas e Ética Profissional em Direito e Processo Judicial Eletrônico",
+                    "professores": [
+                        {
+                            "nome": "Barbara Bedin",
+                            "sala": "Terça-Feira na 17B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Direito do Trabalho",
+                    "professores": [
+                        {
+                            "nome": "Poliana Lovatto",
+                            "sala": "Terça-Feira na 19B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Direito Processual Civil - Execução e Cumprimento de Sentença",
+                    "professores": [
+                        {
+                            "nome": "Juvenal Ballista Kleinowski",
+                            "sala": "Quarta-Feira na 17B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Teoria Geral do Processo",
+                    "professores": [
+                        {
+                            "nome": "Jessica Garcia da Silva Maciel",
+                            "sala": "Quarta-Feira na 20B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Direito Civil - Contratos",
+                    "professores": [
+                        {
+                            "nome": "Barbara Bedin",
+                            "sala": "Quinta-Feira na 7B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Direito Ambiental",
+                    "professores": [
+                        {
+                            "nome": "Jessica Garcia da Silva Maciel",
+                            "sala": "Quinta-Feira na 15B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Teoria Geral do Direito Constitucional",
+                    "professores": [
+                        {
+                            "nome": "Poliana Lovatto",
+                            "sala": "Quinta-Feira na 20B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Direito Empresarial e Societário e Direito Procesual Penal - Procedimentos e Recursos",
+                    "professores": [
+                        {
+                            "nome": "João Serevino de Villa e Jocelino Tramontin da Silva",
+                            "sala": "Sexta-Feira na 19B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Engenharia",
+            "disciplinas": [
+                {
+                    "nome": "9º e 10º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Bruna de Carli Pagnan",
+                            "sala": "Segunda-Feira na 18B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "7º e 8º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Alexsandro Soardi",
+                            "sala": "Quarta-Feira na 4B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Engenharia da Produção",
+            "disciplinas": [
+                {
+                    "nome": "5º e 6º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Alexsandro Soardi",
+                            "sala": "Quinta-Feira na 1B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Educação Física",
+            "disciplinas": [
+                {
+                    "nome": "2º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Leonardo Bottini dos Reis",
+                            "sala": "Terça-Feira na 6B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Administração",
+            "disciplinas": [
+                {
+                    "nome": "3º e 4º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Marcos Daví Cardoso",
+                            "sala": "Terça-Feira na 18B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "2º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Laisa Brogni Demoliner",
+                            "sala": "Quarta-Feira na 6B"
+                        }
+                    ]
+                },
+                {
+                    "nome": "7º e 8º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Marcos Daví Cardoso",
+                            "sala": "Quarta-Feira na 10B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Pedagogia",
+            "disciplinas": [
+                {
+                    "nome": "2º Semestre",
+                    "professores": [
+                        {
+                            "nome": "Lidiane Santin Bartelle",
+                            "sala": "Quarta-Feira na 9B"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

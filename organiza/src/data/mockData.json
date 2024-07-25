@@ -1,31 +1,14 @@
 {
     "cursos": [
       {
-        "nome": "Engenharia de Computação",
+        "nome": "Enfermagem",
         "disciplinas": [
           {
-            "nome": "Matemática Discreta",
+            "nome": "Ciências Morfofuncionais dos Sistemas Imune e Hematológico",
             "professores": [
               {
-                "nome": "Professor João Silva",
-                "sala": "Sala 101"
-              },
-              {
-                "nome": "Professora Ana Costa",
-                "sala": "Sala 102"
-              }
-            ]
-          },
-          {
-            "nome": "Algoritmos e Estruturas de Dados",
-            "professores": [
-              {
-                "nome": "Professor Carlos Oliveira",
-                "sala": "Sala 103"
-              },
-              {
-                "nome": "Professora Laura Martins",
-                "sala": "Sala 104"
+                "nome": "Anderson Nunes",
+                "sala": "Terça-Feira na 1B"
               }
             ]
           }
